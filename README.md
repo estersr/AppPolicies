@@ -6,6 +6,13 @@ By using this app, you agree to these Terms. The App is provided "as is," and yo
 
 We reserve the right to suspend or terminate access for misuse. The App and its content are protected by intellectual property laws—unauthorized use is prohibited. We are not liable for any damages resulting from your use of the App. For questions, contact us at [er.developer.contact@gmail.com].
 
+# **Camera & Facial Data Usage**
+
+This app uses the TrueDepth camera system to track facial movements and eye direction in real time to enhance your experience during specific exercises.
+This data is never recorded, stored, or transmitted—it is processed entirely on your device, and used only while exercises are active.
+
+We do not use this facial data for identification, authentication, or advertising purposes. Use of the TrueDepth camera is purely functional and limited to app features that rely on real-time face and eye tracking.
+
 
 # **Privacy Policy**
 
